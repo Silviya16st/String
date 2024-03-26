@@ -1,0 +1,14 @@
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\bin\Debug\net6.0\SamoBykvi.exe
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\bin\Debug\net6.0\SamoBykvi.deps.json
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\bin\Debug\net6.0\SamoBykvi.runtimeconfig.json
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\bin\Debug\net6.0\SamoBykvi.dll
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\bin\Debug\net6.0\SamoBykvi.pdb
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\SamoBykvi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\SamoBykvi.AssemblyInfoInputs.cache
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\SamoBykvi.AssemblyInfo.cs
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\SamoBykvi.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\SamoBykvi.dll
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\refint\SamoBykvi.dll
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\SamoBykvi.pdb
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\SamoBykvi.genruntimeconfig.cache
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\ref\SamoBykvi.dll

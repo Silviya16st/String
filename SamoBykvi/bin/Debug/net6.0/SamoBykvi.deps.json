@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SamoBykvi/1.0.0": {
+        "runtime": {
+          "SamoBykvi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SamoBykvi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

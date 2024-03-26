@@ -1,0 +1,14 @@
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\bin\Debug\net6.0\Skrivalishte.exe
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\bin\Debug\net6.0\Skrivalishte.deps.json
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\bin\Debug\net6.0\Skrivalishte.runtimeconfig.json
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\bin\Debug\net6.0\Skrivalishte.dll
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\bin\Debug\net6.0\Skrivalishte.pdb
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\obj\Debug\net6.0\Skrivalishte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\obj\Debug\net6.0\Skrivalishte.AssemblyInfoInputs.cache
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\obj\Debug\net6.0\Skrivalishte.AssemblyInfo.cs
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\obj\Debug\net6.0\Skrivalishte.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\obj\Debug\net6.0\Skrivalishte.dll
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\obj\Debug\net6.0\refint\Skrivalishte.dll
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\obj\Debug\net6.0\Skrivalishte.pdb
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\obj\Debug\net6.0\Skrivalishte.genruntimeconfig.cache
+C:\Users\LOQ\Desktop\Silviya\String\Skrivalishte\obj\Debug\net6.0\ref\Skrivalishte.dll

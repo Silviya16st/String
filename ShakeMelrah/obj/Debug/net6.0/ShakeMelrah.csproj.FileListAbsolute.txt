@@ -1,0 +1,14 @@
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\bin\Debug\net6.0\ShakeMelrah.exe
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\bin\Debug\net6.0\ShakeMelrah.deps.json
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\bin\Debug\net6.0\ShakeMelrah.runtimeconfig.json
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\bin\Debug\net6.0\ShakeMelrah.dll
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\bin\Debug\net6.0\ShakeMelrah.pdb
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\obj\Debug\net6.0\ShakeMelrah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\obj\Debug\net6.0\ShakeMelrah.AssemblyInfoInputs.cache
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\obj\Debug\net6.0\ShakeMelrah.AssemblyInfo.cs
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\obj\Debug\net6.0\ShakeMelrah.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\obj\Debug\net6.0\ShakeMelrah.dll
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\obj\Debug\net6.0\refint\ShakeMelrah.dll
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\obj\Debug\net6.0\ShakeMelrah.pdb
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\obj\Debug\net6.0\ShakeMelrah.genruntimeconfig.cache
+C:\Users\LOQ\Desktop\Silviya\String\ShakeMelrah\obj\Debug\net6.0\ref\ShakeMelrah.dll

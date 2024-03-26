@@ -1,0 +1,14 @@
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\bin\Debug\net6.0\Cenzora.exe
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\bin\Debug\net6.0\Cenzora.deps.json
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\bin\Debug\net6.0\Cenzora.runtimeconfig.json
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\bin\Debug\net6.0\Cenzora.dll
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\bin\Debug\net6.0\Cenzora.pdb
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\Cenzora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\Cenzora.AssemblyInfoInputs.cache
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\Cenzora.AssemblyInfo.cs
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\Cenzora.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\Cenzora.dll
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\refint\Cenzora.dll
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\Cenzora.pdb
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\Cenzora.genruntimeconfig.cache
+C:\Users\LOQ\Desktop\Silviya\String\SamoBykvi\obj\Debug\net6.0\ref\Cenzora.dll
